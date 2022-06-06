@@ -1,0 +1,97 @@
+/* Fill CSS here */
+body>h1{
+    text-align: center;
+    color:rgb(16, 16, 181);
+    text-decoration: underline;
+}
+
+body>div{
+    display:flex;
+}
+
+body>div>form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:70px 70px 70px 70px;
+    
+}
+
+
+form>:last-child{
+    background-color:rgb(16, 16, 181);
+    color:white;
+    margin-top:10px;
+    width:99%;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+form+table{
+   margin-left:100px;
+}
+
+form+table>thead>tr>:nth-child(1){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(2){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(3){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(4){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(5){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(6){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(7){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+form+table>thead>tr>:nth-child(8){
+    border:1px solid black;
+    height:30px;
+    width:80px;
+    background-color:rgb(16, 16, 181);
+    color:white;
+}
+
+
+
